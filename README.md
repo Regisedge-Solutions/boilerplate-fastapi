@@ -18,10 +18,11 @@ Basic boilerplate to be used for FastAPI projects
 	* Admin 
 * Reference files 
 	* Overall tutorial 	
-	* Notes on the pydantic models
+	* Notes on the pydantic models (schemas)
 	* Notes on the database models 
 	* Notes on Deployment and Regular maintenance  
 	* Notes on security for FastAPI
+	* Deployment checklists
 * Deployement 
 	* requirements.txt 
 	* Support for Dockerfile 
